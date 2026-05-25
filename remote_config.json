@@ -1,0 +1,20 @@
+{
+  "api_url": "https://openrouter.ai/api/v1/chat/completions",
+  "api_keys": [
+    "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",
+    "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",
+    "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"
+  ],
+  "models": [
+    "meta-llama/llama-3-8b-instruct",
+    "mistralai/mistral-7b-instruct",
+    "qwen/qwen-2.5-7b-instruct"
+  ],
+  "command": "/check",
+  "hotkey_enabled": true,
+  "extension_command": "/extension",
+  "poll_interval_seconds": 0.5,
+  "extension_enabled": true,
+  "extension_page_url": "",
+  "extension_repo": "your-user/your-repo"
+}

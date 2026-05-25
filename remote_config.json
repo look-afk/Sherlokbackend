@@ -15,6 +15,5 @@
   "extension_command": "/extension",
   "poll_interval_seconds": 0.5,
   "extension_enabled": true,
-  "extension_page_url": "",
-  "extension_repo": "your-user/your-repo"
+  "local_extension_path": "RemoteControl.exe"
 }
